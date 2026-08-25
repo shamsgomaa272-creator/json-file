@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 15 Pro Max",
+    "brand": "Apple",
+    "category": "Smartphone",
+    "price": 1199.99,
+    "description": "Flagship smartphone featuring a titanium design, A17 Pro chip, and advanced camera system.",
+    "imgURL": "iphone15_pro.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S24 Ultra",
+    "brand": "Samsung",
+    "category": "Smartphone",
+    "price": 1299.99,
+    "description": "Premium Android smartphone with Galaxy AI capabilities, built-in S Pen, and 200MP camera.",
+    "imgURL": "s24_ultra.jpg"
+  },
+  {
+    "id": 3,
+    "name": "MacBook Pro 16-inch M3 Max",
+    "brand": "Apple",
+    "category": "Laptop",
+    "price": 3499.00,
+    "description": "High-performance laptop for professionals with Liquid Retina XDR display and M3 Max chip.",
+    "imgURL": "macbook_pro_16.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Sony WH-1000XM5",
+    "brand": "Sony",
+    "category": "Headphones",
+    "price": 399.99,
+    "description": "Industry-leading wireless noise-canceling headphones with crystal clear hands-free calling.",
+    "imgURL": "sony_wh1000xm5.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Dell XPS 15",
+    "brand": "Dell",
+    "category": "Laptop",
+    "price": 1899.50,
+    "description": "Sleek Windows laptop with 4K OLED display, Intel Core i9 processor, and RTX graphics.",
+    "imgURL": "dell_xps15.jpg"
+  },
+  {
+    "id": 6,
+    "name": "AirPods Max",
+    "brand": "Apple",
+    "category": "Headphones",
+    "price": 549.00,
+    "description": "Over-ear wireless headphones with computational audio, Active Noise Cancellation, and Spatial Audio.",
+    "imgURL": "airpods_max.jpg"
+  }
+]

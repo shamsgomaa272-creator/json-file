@@ -1,0 +1,12 @@
+{
+  "name": "product-crud",
+  "version": "1.0.0",
+  "description": "Simple Express REST API for managing products",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
